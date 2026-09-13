@@ -4,7 +4,7 @@ A rule-based intent-classification chatbot built with a bag-of-words feature rep
 
 ## Overview
 
-The bot classifies user input into a predefined set of intents (`intents.json`), then responds with a matching pre-written response. It's a lightweight, from-scratch alternative to embedding-based chatbots — the whole pipeline is a few hundred lines and trains in seconds on CPU.
+The bot classifies user input into a predefined set of intents (intents.json), then responds with a matching pre-written response. It's a lightweight, from-scratch alternative to embedding-based chatbots, with a whole pipeline that's a few hundred lines and trains in seconds on CPU.
 
 ## How It Works
 
